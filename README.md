@@ -86,5 +86,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - Mobile or web app deployment
 
 ## 📞 Contact
-Built with ❤️ by [Your Name or Team Name]  
+@tpriyal2016@gmail.com 
+
 Drop a ⭐ if you find this helpful!
